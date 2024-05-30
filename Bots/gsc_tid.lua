@@ -1,5 +1,5 @@
 --Edit parameters in this section
-local desired_tid = {12345, 00666, 31415} --TIDs you desired
+local desired_tid = {01993, 00001, 00069} --TIDs you desired
 --End of parameters
 
 local tid_addr
